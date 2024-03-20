@@ -1,0 +1,194 @@
+@media screen and (max-width: 420px) {
+  .main-nav ul li {
+    padding: 0;
+    font-size: 8px;
+  }
+  .main-content .text-section {
+   
+    margin-left: 0px;
+    /* background-color: red; */
+    
+  }
+  
+}
+@media screen and (max-width: 500px)  {
+  /* img of footer  */
+  .footer-img img{
+    height: 20px;
+    margin-right: 5px;
+  }
+  .footer-img .whatsaap{
+    height: 20px;
+  }
+  .footer-main{
+    width: 80%;
+   
+  }
+  .main-content .text-section {
+   
+    margin-left: 0px;
+    /* background-color: red; */
+    
+  }
+  /* img of footer end here */
+}
+@media screen and (max-width: 600px) {
+  .connection-second {
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+  }
+  .second-container .sec-second .sec-first-pera {
+    /* font-size: 15px; */
+    width: 185%;
+    text-align: justify;
+    font-size: 12px;
+    margin-top: 40px;
+  }
+  .second-container .sec-second .sec-second-pera {
+    width: 185%;
+    font-size: 10px;
+  }
+  .list-items ul li {
+    width: 98px;
+  }
+
+  .button {
+    width: 188%;
+  }
+  .button .btn {
+    padding: 10px 25px;
+    font-size: 11px;
+  }
+ 
+  /* footer section is start from here */
+  .coyright{
+    font-size: 11px;
+  }
+  /* footer section is end here */
+}
+@media screen and (max-width: 770px) {
+ /* service responsive is start from here */
+ .box {
+  flex-direction: column;
+  align-items: center;
+}
+.box1 {
+  width: 70%;
+  margin-bottom: 24px;
+  padding-bottom: 18px;
+  border-bottom: 2px solid orange;
+}
+.box2 {
+  width: 70%;
+  margin-bottom: 24px;
+  padding-bottom: 18px;
+  border-bottom: 2px solid orange;
+}
+.box3 {
+  width: 70%;
+  margin-bottom: 24px;
+  padding-bottom: 18px;
+  border-bottom: 2px solid orange;
+}
+/* service responsive is end here */
+}
+@media screen and (max-width: 800px) {
+  .main-nav ul li {
+    padding: 5px 10px;
+  }
+  .img-section {
+    display: none;
+  }
+  .img-section img {
+    display: none;
+  }
+  .text-section {
+    padding: 0px 70px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 0;
+  }
+  .text-section .img {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    background-image: url(../img/ade0c286-59a9-4394-bcb2-c145fd44b808.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 150px;
+    border: 2px solid orange;
+    margin-bottom: 20px;
+  }
+  .img-section {
+    padding-right: 10px;
+  }
+  .main-first-text {
+    padding: 0px;
+    text-align: center;
+  }
+  .main-second-text {
+    margin-top: 0px;
+    text-align: center;
+  }
+  .main-third-text {
+    text-align: center;
+  }
+  .main-btn {
+    margin-bottom: 40px;
+  }
+  .text-section {
+   
+    margin-left: 0px;
+    
+  }
+  /* second conatiner  is start from here */
+
+  /* second conatiner  is end here */
+}
+@media screen and (max-width: 900px) {
+  .connection-second {
+    width: 90%;
+  }
+  .first-second img {
+    margin-top: 30px;
+    height: 248px;
+  }
+   /* contact section is star from here */
+   .contact-main {
+    flex-direction: column;
+    /* align-items: center; */
+  }
+  .conatct-text {
+    width: 100%;
+  }
+  .contact-inputs {
+    width: 100%;
+   }
+   .text-section {
+   
+    margin-left: 0px;
+    
+  }
+
+
+  /* contact section is end here */
+}
+@media screen and (max-width: 1205px) {
+  .main-second-text {
+    padding: 0px;
+    font-size: 18px;
+  }
+  .text-section {
+    padding: 0;
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 50%;
+  }
+  .img-section {
+    padding-left: 40px;
+  }
+ 
+}
